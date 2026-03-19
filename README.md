@@ -1,3 +1,6 @@
+[style.css](https://github.com/user-attachments/files/26122239/style.css)
+[main.js](https://github.com/user-attachments/files/26122238/main.js)
+[index.html](https://github.com/user-attachments/files/26122237/index.html)
 --->PROJECT EXPLANATION
 STUDENT MANAGER
 Student Manager is a web application that acts as a student database that can be used to manage student records and allows users to perform CRUD(Control,Read,Update and Delete) operations on student data.The data remains even after refreshing the page as the data is stored on LocalStorage.The interface updates dynamically using JavaScript DOM manipulation.
